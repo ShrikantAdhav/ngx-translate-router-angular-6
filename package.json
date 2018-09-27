@@ -1,0 +1,57 @@
+{
+  "_from": "@gilsdav/ngx-translate-router",
+  "_id": "@gilsdav/ngx-translate-router@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-uJ6vxBC0/2TP9tEoI7rpR7ulQSHc4aDkvWTRz4gwdni6UgJpbnBTrUvvQQFnsQQb2ZoETZ/wIZ0a/nr+4cNj4A==",
+  "_location": "/@gilsdav/ngx-translate-router",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@gilsdav/ngx-translate-router",
+    "name": "@gilsdav/ngx-translate-router",
+    "escapedName": "@gilsdav%2fngx-translate-router",
+    "scope": "@gilsdav",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@gilsdav/ngx-translate-router/-/ngx-translate-router-1.0.1.tgz",
+  "_shasum": "52aba9bfb77742b3e7b94617f20beab7e49bfeda",
+  "_spec": "@gilsdav/ngx-translate-router",
+  "_where": "D:\\tnbt-cheesecake",
+  "author": {
+    "name": "David Gilson",
+    "email": "davgilson@live.fr",
+    "url": "https://github.com/gilsdav"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "es2015": "fesm2015/gilsdav-ngx-translate-router.js",
+  "esm2015": "esm2015/gilsdav-ngx-translate-router.js",
+  "esm5": "esm5/gilsdav-ngx-translate-router.js",
+  "fesm2015": "fesm2015/gilsdav-ngx-translate-router.js",
+  "fesm5": "fesm5/gilsdav-ngx-translate-router.js",
+  "homepage": "https://github.com/gilsdav/ngx-translate-router#readme",
+  "license": "MIT",
+  "main": "bundles/gilsdav-ngx-translate-router.umd.js",
+  "metadata": "gilsdav-ngx-translate-router.metadata.json",
+  "module": "fesm5/gilsdav-ngx-translate-router.js",
+  "name": "@gilsdav/ngx-translate-router",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/router": "^6.0.0-rc.0 || ^6.0.0",
+    "@ngx-translate/core": "^10.0.0"
+  },
+  "sideEffects": false,
+  "typings": "gilsdav-ngx-translate-router.d.ts",
+  "version": "1.0.1"
+}
